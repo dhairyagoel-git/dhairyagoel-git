@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Dhairya Goel
-
+I'm a passionate software developer and a first-year student. I enjoy building projects using Node.js and exploring new technologies like Web3 and IoT. I'm always eager to learn, grow, and collaborate on exciting ideas that make an impact.
 
 ## 🛠 Tech Stack
 
