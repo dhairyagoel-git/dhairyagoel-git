@@ -11,14 +11,5 @@ I'm a passionate software developer and a first-year student. I enjoy building p
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Dhairya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-
-### 🔥 GitHub Streak
-![Dhairya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
-
-
-### 🏆 GitHub Trophies
-![Dhairya's Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&margin-w=4&margin-h=4)
 
