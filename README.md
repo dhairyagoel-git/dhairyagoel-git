@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  I’ve completed 2 freelance projects and am currently working on my 3rd, shaping both front and back into seamless experiences. I’m always creating, learning, contributing, and experimenting, and some of those little pieces live here too. 
+  I enjoy learning how things work and building small projects that solve real problems. Most of my time goes into exploring coding, cloud tools, and figuring out how different parts of technology connect.
 </p>
 
 <!-- <div align="center">
@@ -46,7 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyagoel-git&theme=transparent&hide_border=true" height="170" />
 </p>
 
-## GitHub Trophies
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
 </p> -->
