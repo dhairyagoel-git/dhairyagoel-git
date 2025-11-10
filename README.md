@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there , I'm<a href="https://palchhin.me" target="_blank">Dhairya Goel</a> 
+  Hi there , I'm <a href="https://palchhin.me" target="_blank">Dhairya Goel</a> 
 </h1>
 
 <h3 align="center">
